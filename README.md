@@ -6,7 +6,7 @@
 
 ## Misión
 
-Mi misión es **empoderarte para que conquistes el mundo de los datos**. Creemos que el conocimiento de los datos es una herramienta poderosa para abrir nuevas oportunidades y resolver problemas del mundo real.
+Mi misión es **empoderarte para que conquistes el mundo de los datos**. Creo que el conocimiento de los datos es una herramienta poderosa para abrir nuevas oportunidades y resolver problemas del mundo real.
 
 ---
 
